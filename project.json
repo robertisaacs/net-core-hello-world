@@ -1,16 +1,15 @@
 {
-            "version": "1.0.0-*",
-            "dependencies": {
-            },
-"commands": {
-        "netcore-lambda": "netcore-lambda"
-    },
-            "frameworks" : {
-                "dnxcore50" : {
-                    "dependencies": {
-                        "System.Console": "4.0.0-beta-*",
-			"System.IO.FileSystem": "4.0.0-beta-*"
-                    }
-                }
-            }
-        }
+  "version": "1.0.0-*",
+  "dependencies": {
+  },
+  "commands": {
+    "netcore-lambda": "netcore-lambda"
+  },
+  "frameworks" : {
+    "dnxcore50" : {
+      "dependencies": {
+        "System.Console": "4.0.0-beta-*",
+      }
+    }
+  }
+}
