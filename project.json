@@ -3,12 +3,12 @@
   "dependencies": {
   },
   "commands": {
-    "netcore-lambda": "netcore-lambda"
+    "run": "run"
   },
   "frameworks" : {
     "dnxcore50" : {
       "dependencies": {
-        "System.Console": "4.0.0-beta-*",
+        "System.Console": "4.0.0-beta-*"
       }
     }
   }
